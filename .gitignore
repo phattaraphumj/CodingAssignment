@@ -1,0 +1,12 @@
+
+*.exe
+*.out
+a.out
+
+
+/build/
+/bin/
+/.cph/
+
+.vscode/
+.DS_Store
